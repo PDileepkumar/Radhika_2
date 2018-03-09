@@ -870,7 +870,7 @@ footer p a:hover{color:#ff4f81;}
 }
 @media(max-width:1050px){
 	.navbar-fixed-top {
-    top: 46px;
+    top: 66px;
 }
 ul.nav.navbar-nav li a {
     padding: 17px 0px;
@@ -1153,7 +1153,7 @@ ul.nav.navbar-nav li a:hover {background:red;}
     padding: .5em 1em;
 }	
 .navbar-fixed-top {
-    top: 52px;
+    top: 62px;
 }
 .banner-w3 {
     min-height: 534px;
@@ -1208,7 +1208,7 @@ footer p {
 .headder-w3 ,.search-w3ls{float:none;}
 .headder-w3{    margin-bottom: 8px;}
 .navbar-fixed-top {
-    top: 60px;
+    top: 120px;
 }
 .w3l-info h4 {
     font-size: 31px;
